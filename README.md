@@ -132,17 +132,17 @@ A comprehensive guide on identifying and removing bloatware from Android devices
     <a href="https://instagram.com/smaxiso" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a> &bull;
-    <a href="https://twitter.com/smaxiso" alt="Twitter">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    </a> &bull;
-    <a href="https://snapchat.com/add/smaxiso" alt="Snapchat">
-        <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white">
-    </a> &bull;
     <a href="https://github.com/smaxiso" alt="GitHub">
         <img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white">
     </a> &bull;
     <a href="https://smaxiso.medium.com" alt="Medium">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>
+    </a> &bull;
+    <a href="https://twitter.com/smaxiso" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a> &bull;
+    <a href="https://snapchat.com/add/smaxiso" alt="Snapchat">
+        <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white">
+    </a> 
 </p>
 
