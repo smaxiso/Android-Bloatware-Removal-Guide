@@ -5,7 +5,7 @@ A comprehensive guide on identifying and removing bloatware from Android devices
 <h2>Requirements</h2>
 <ul>
     <li>Your computer should run the Windows operating system.</li>
-    <li>Download ADBKit from this <a href="https://github.com/K3V1991/ADBKit">GitHub</a> repository.</li>
+    <li>Download the <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">Android SDK Platform Tools ZIP file for Windows.</a>.</li>
     <li>Ensure you have the appropriate USB driver installed for your Android device. You can use the <a href="https://adb.clockworkmod.com/">Universal ADB Driver</a> if needed.</li>
 </ul>
 
