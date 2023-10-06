@@ -231,13 +231,6 @@ A comprehensive guide on identifying and removing bloatware from Android devices
 <!-- Re-install Apps -->
 <h2>Re-install Apps</h2>
 
-<br><hr>
-<p>If you wish to reinstall the app which you recently uninstalled, you can follow the instructions in the subsequent sections to reinstall the app.</p>
-<hr><br>
-
-<!-- Re-install Apps -->
-<h2>Re-install Apps</h2>
-
 <p>Should you ever need to reinstall a previously removed app on your Android device, follow these steps:</p>
 
 <ol>
