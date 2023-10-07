@@ -4,11 +4,18 @@ A comprehensive guide on identifying and removing bloatware from Android devices
 <!-- Requirements -->
 <h2>Requirements</h2>
 <ul>
-    <li>An Android phone with Developer Options and USB Debugging enabled.
-    <em>Ensure you have the appropriate USB driver installed for your Android device. You can use the <a href="https://adb.clockworkmod.com/">Universal ADB Driver</a> if needed.</em>
+    <li>
+        An Android phone with Developer Options and USB Debugging enabled.
     </li>
-    <li>A computer or laptop with Windows, macOS or Linux to set up ADB.</li>
-    <li>A list of apps/bloatware you wish to uninstall.</li>
+    <li>
+        A computer or laptop with Windows, macOS or Linux to set up ADB.
+        <em>
+            Ensure you have the appropriate USB driver installed for your Android device. You can use the <a href="https://adb.clockworkmod.com/">Universal ADB Driver</a> if needed.
+        </em>
+    </li>
+    <li>
+        A list of apps/bloatware you wish to uninstall.
+    </li>
 </ul>
 
 <!-- Enable Developer Options & USB Debugging -->
